@@ -6,3 +6,7 @@ Feel free to view the articles in this vault using any Markdown editor supportin
 For the best result, open the vault using [Obsidian](https://obsidian.md).
 
 ![](obsidian.png)
+
+## Download
+
+To download the vault as a ZIP file, click `Code` above and then click `Download ZIP`.
