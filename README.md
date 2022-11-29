@@ -10,3 +10,5 @@ For the best result, open the vault using [Obsidian](https://obsidian.md).
 ## Download
 
 To download the vault as a ZIP file, click `Code` above and then click `Download ZIP`.
+
+![](download.png)
